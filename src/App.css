@@ -1,0 +1,60 @@
+.mainContainer {
+  background-color: #231955;
+  color: white;
+  background-image: url(https://images.unsplash.com/photo-1524639064490-254e0a1db723?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80);
+  background-size: cover;
+}
+p {
+  font-weight: bold;
+}
+
+input {
+  text-align: center;
+  background: transparent;
+  color: white;
+  border: none;
+  font-weight: bolder;
+  border-bottom: 2px solid #d8d5cf;
+  font-size: larger;
+  margin: 30px auto;
+}
+
+input:focus {
+  outline: none;
+}
+
+.searchBox {
+  padding-top: 50px;
+  text-align: center;
+}
+
+button {
+  font-size: larger;
+  background-color: #E8AA42;
+  color: white;
+  font-weight: bold;
+  border-color: #E8AA42;
+  cursor: pointer;
+  margin-left: 5px;
+
+}
+
+button:hover {
+  background-color: transparent;
+  color: white;
+}
+
+.welscreen {
+  margin-top: 70px;
+  height: 100vh;
+}
+
+.welscreen h1 {
+  margin-bottom: 40px;
+}
+
+.searchgif {
+  display: block;
+  border-radius: 0%;
+  margin-bottom: 40px;
+}
